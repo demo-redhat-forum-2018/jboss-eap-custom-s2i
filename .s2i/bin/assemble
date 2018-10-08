@@ -18,4 +18,4 @@ else
 fi
 
 # Call default assemble script
-/usr/local/s2i/assemble
+exec /usr/local/s2i/assemble
